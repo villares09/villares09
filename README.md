@@ -26,7 +26,7 @@
    
 ### How to reach me 📫:
    <p>
-      <a href="https://www.linkedin.com/in/fernando-andres-villares-corbalan/">
+      <a href="https://www.linkedin.com/in/fernando-andres-villares-corbalan-fullstack-dev/">
          <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Fernando Villares Profile" height="40" width="40">
       </a> 
  <a align='right' href="mailto:villaresfernando91@gmail.com">
