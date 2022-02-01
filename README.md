@@ -25,7 +25,7 @@
   <img align="left" alt="Git" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 </p
   
-   
+   [![trophy](https://github-profile-trophy.vercel.app/?username=villares09)](https://github.com/villares09/github-profile-trophy)
 ### How to reach me 📫:
    <p>
       <a href="https://www.linkedin.com/in/fernando-andres-villares-corbalan-fullstack-dev/">
