@@ -37,4 +37,5 @@
    </p>
    
    <img  src="https://github-readme-stats.vercel.app/api?username=villares09" />   
+   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=villares09" alt="villares09" /></p>
   <img width="495px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=villares09" />
